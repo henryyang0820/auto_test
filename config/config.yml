@@ -1,0 +1,7 @@
+login_Url: http://172.16.250.150:8088/portal/index_blue.jsp
+log:
+    file_name: test.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
