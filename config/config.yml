@@ -1,4 +1,4 @@
-login_Url: http://172.16.250.150:8088/portal/index_blue.jsp
+URL: http://www.baidu.com
 log:
     file_name: test.log
     backup: 5

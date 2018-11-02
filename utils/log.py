@@ -9,6 +9,7 @@ import logging
 from logging.handlers import TimedRotatingFileHandler
 from utils.config import LOG_PATH, Config
 
+
 class Logger(object):
     def __init__(self, logger_name='framework'):
         self.logger = logging.getLogger(logger_name)
